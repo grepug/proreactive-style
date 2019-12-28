@@ -1,7 +1,7 @@
 ---
 title: Why Proactive
 date: '2019-03-24'
-spoiler: It's a little experience from my daily work.
+description: It's a little experience from my daily work.
 ---
 It's a little experience from my daily work.
 
