@@ -1,8 +1,9 @@
 ---
 title: Why Proactive
-date: '2019-03-24'
+date: "2019-03-24"
 description: It's a little experience from my daily work.
 ---
+
 It's a little experience from my daily work.
 
 Maybe, you can call it a sense of danger, when you are not get much work assigned. You can predict, however, what will be your next assignment in a short time has to be well prepared for some time. But your boss can not. They always think in their piece of mind that you are all prepared for what will be told.
