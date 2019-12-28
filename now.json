@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "alias": "proactive.style",
+  "builds": [
+    {
+      "use": "@now/static-build",
+      "src": "package.json",
+      "config": { "distDir": "public" }
+    }
+  ]
+}
